@@ -1,0 +1,2 @@
+This project uses testnet only.
+Do not use real private keys.
